@@ -1,0 +1,13 @@
+G, P, U, _, N
+1070, 330, 25, Nvidia, ASUS
+1080, 400, 12, Nvidia, AORUS
+2060, 500, 10, Nvidia, Gigabyte
+2080, 1000, 10, Nvidia, EVGA
+3060, 750, 17, Nvidia, ASUS
+3070, 1000, 11, Nvidia, MSI
+3090, 3639, 7, Nvidia, ASUS
+6600, 429, 15, Radeon, Powercolour
+6700, 800, 14, Radeon, Powercolor
+6750, 1050, 10, Radeon, AORUS
+6800, 1150, 15, Radeon, Powercolor
+6950, 1800, 13, Radeon, Gigabyte
